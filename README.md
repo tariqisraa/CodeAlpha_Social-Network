@@ -1,5 +1,5 @@
 # CodeAlpha_Social-Network
-Social Network Platform 
+**Social Network Platform **
 
 Our Social Network Platform is a dynamic and interactive web application designed to connect people seamlessly. Users can create personalized profiles featuring their photos and interests. The platform enables users to:
 
